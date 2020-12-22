@@ -1,3 +1,0 @@
-﻿  mastermind.cpp
-D:\miret\Google Drive\Courses & Trainings\EPFL Courses\Introduction a C++\EPFL Course\mastermind\mastermind.cpp(13,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  mastermind.vcxproj -> D:\miret\Google Drive\Courses & Trainings\EPFL Courses\Introduction a C++\EPFL Course\Debug\mastermind.exe
