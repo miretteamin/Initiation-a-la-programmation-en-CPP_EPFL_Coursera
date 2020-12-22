@@ -1,0 +1,14 @@
+﻿  Using triplet "x64-windows" from "D:\vcpkg\installed\x64-windows\"
+  cloture.cpp
+D:\miret\Documents\Courses & Trainings\EPFL Courses\Introduction a C++\EPFL Course\cloture\cloture.cpp(115,16): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\miret\Documents\Courses & Trainings\EPFL Courses\Introduction a C++\EPFL Course\cloture\cloture.cpp(116,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\miret\Documents\Courses & Trainings\EPFL Courses\Introduction a C++\EPFL Course\cloture\cloture.cpp(119,23): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  cloture.vcxproj -> D:\miret\Documents\Courses & Trainings\EPFL Courses\Introduction a C++\EPFL Course\x64\Debug\cloture.exe
